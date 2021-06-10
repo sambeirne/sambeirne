@@ -5,7 +5,7 @@ You found my personal GitHub profile.
 Looking for my latest work? 🚧 Check out [Softwerks](https://github.com/softwerks).
 
 #### 🎲 Backgammon Network
-The Backgammon Network is a browser-based multiplayer backgammon service. It's currently in development and should launch soon. 🚀
+The [Backgammon Network](https://www.bkgmn.net) is a browser-based multiplayer backgammon service. Play now at www.bkgmn.net.
 * [Backgammon](https://github.com/softwerks/backgammon) (Rules Engine)
 * [Chateau](https://github.com/softwerks/chateau) (Web Server)
 * [Joust](https://github.com/softwerks/joust) (WebSocket Server)
